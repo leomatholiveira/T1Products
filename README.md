@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Flutter
 - Dart
-- CSS
+- C++
 - Git & GitHub
 
 ## 💻 Projeto
