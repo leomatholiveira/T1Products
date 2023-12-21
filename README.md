@@ -1,16 +1,31 @@
-# project_app
+<h1 align="center"> DevLinks </h1>
 
-App_Project
+<p align="center">
+Programa voltado ao meu perfil profissional
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- CSS
+- Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Projeto
+
+Projeto voltado ao meu perfil profissional, contendo um mini projeto de um apk de produtos/venda.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
